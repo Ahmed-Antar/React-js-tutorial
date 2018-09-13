@@ -6,7 +6,7 @@ import Welcome from './Welcome';
 class App extends Component {
   render() {
     return (
-      <Welcome/>
+      <Welcome name="Ahmed"/>
     );
   }
 }
